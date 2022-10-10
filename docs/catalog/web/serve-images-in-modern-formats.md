@@ -4,7 +4,7 @@ submitted_by: markus-ntt-seidl, navveenb
 published_date: TBD
 category: web
 tags: 
- - image
+ - web
  - size:small
  - role:web-developer
 ---
@@ -28,7 +28,7 @@ Test which image format give the best compression ratio, visual quality and devi
 ## SCI Impact
 
 `SCI = (E * I) + M per R`  
-[Sofware Carbon Intensity Spec](grnsft.org/sci)
+[Sofware Carbon Intensity Spec](https://grnsft.org/sci)
 
 Concerning the SCI equation, the new image formats will impact the equation as follows:
 
